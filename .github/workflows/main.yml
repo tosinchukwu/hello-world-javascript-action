@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: tosinchukwu/hello-world-javascript-action@1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b
+        uses: tosinchukwu/hello-world-javascript-action@dbf2cbda497002e903b5c0c94668e5b72b382304
         with:
           who-to-greet: 'My Friend'
       # Use the output from the `hello` step
